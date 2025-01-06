@@ -24,7 +24,7 @@ This project offers a machine-learning model that predicts house prices based on
 
 1. Clone the repository:
    ```shell
-   git clone <repository-url>
+   git clone PricePrediction
    cd House Price Prediction
 Create a virtual environment (recommended) and install the required dependencies:
 python -m venv venv
@@ -56,6 +56,6 @@ Explore more advanced machine learning techniques.
 Fine-tune hyperparameters for better model performance.
 Gather more labeled data for improved accuracy.
 References
-Author: Mirza Salman
-Contact: salmansaluu661@gmail.com
+Author: Muhammad Mubashir Ali
+Contact: muhammadmubashirali63@gmail.com
 Feel free to customize this README to include any additional information you want to provide about the project.
